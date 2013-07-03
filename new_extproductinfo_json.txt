@@ -1,0 +1,104 @@
+{
+"StatusCode": 0,
+"StatusInfo": "Processed and Logged OK",
+"PageNumber": 0,
+"TotalPageCount": 1,
+"TotalProductCount": 1,
+"PageProductCount": 1,
+"Products":
+[
+{
+"BaseProductId": "54648695",
+"EANBarcode": "5390605004059",
+"CheaperAlternativeProductId": "",
+"CookingAndUsage": "Although great care has been taken to remove all bone some may remain.",
+"ExtendedDescription": "We guarantee the Quality & Freshness of our products - find out more |Made with finest quality pork|0 to tasty in seconds|Flame grilled|Chopped and shaped pork with a BBQ flavour seasoning and added textured soya protein in a sesame seeded bun with a sachet of BBQ flavour sauce.|Did You Know? Our pork rib uses only the finest quality pork. All our pork is traceable back to the farm of origin.|Allergy Other Text:               May contain traces of milk|Contains:               Gluten Sesame Seeds SoyaSoybeans|May Contain:               Milk|",
+"HealthierAlternativeProductId": "",
+"ImagePath": "http://img.tesco.com/Groceries/pi/059/5390605004059/IDShot_90x90.jpg",
+"MaximumPurchaseQuantity": 99,
+"Name": "Rustlers Barbeque Pork Rib Sandwich 170G",
+"OfferPromotion": "",
+"OfferValidity": "",
+"OfferLabelImagePath": "",
+"Price": 1,
+"PriceDescription": "£5.89 each",
+"ProductId": "255956929",
+"ProductType": "QuantityOnlyProduct",
+"Rating": 0,
+"StorageInfo": "Keep refrigerated below 4C.",
+"UnitPrice": 5.89,
+"UnitType": "kg",
+"RDA_Calories_Count": "0",
+"RDA_Calories_Percent": "0",
+"RDA_Sugar_Grammes": "0",
+"RDA_Sugar_Percent": "0",
+"RDA_Fat_Grammes": "0",
+"RDA_Fat_Percent": "0",
+"RDA_Saturates_Grammes": "0",
+"RDA_Saturates_Percent": "0",
+"RDA_Salt_Grammes": "0",
+"RDA_Salt_Percent": "0",
+"NutrientsCount": 8,
+"Nutrients":
+[
+{
+"NutrientName": "Energy",
+"SampleDescription": "Typical values as sold per 100g:",
+"SampleSize": "1129kJ/270kcal",
+"ServingDescription": "-",
+"ServingSize": "-"
+},
+{
+"NutrientName": "Protein",
+"SampleDescription": "Typical values as sold per 100g:",
+"SampleSize": "14.3g",
+"ServingDescription": "-",
+"ServingSize": "-"
+},
+{
+"NutrientName": "Carbohydrate",
+"SampleDescription": "Typical values as sold per 100g:",
+"SampleSize": "22.9g",
+"ServingDescription": "-",
+"ServingSize": "-"
+},
+{
+"NutrientName": "of which sugars",
+"SampleDescription": "Typical values as sold per 100g:",
+"SampleSize": "4.2g",
+"ServingDescription": "-",
+"ServingSize": "-"
+},
+{
+"NutrientName": "Fat",
+"SampleDescription": "Typical values as sold per 100g:",
+"SampleSize": "13.0g",
+"ServingDescription": "-",
+"ServingSize": "-"
+},
+{
+"NutrientName": "of which saturates",
+"SampleDescription": "Typical values as sold per 100g:",
+"SampleSize": "4.2g",
+"ServingDescription": "-",
+"ServingSize": "-"
+},
+{
+"NutrientName": "Fibre",
+"SampleDescription": "Typical values as sold per 100g:",
+"SampleSize": "2.0g",
+"ServingDescription": "-",
+"ServingSize": "-"
+},
+{
+"NutrientName": "Sodium",
+"SampleDescription": "Typical values as sold per 100g:",
+"SampleSize": "0.49g",
+"ServingDescription": "-",
+"ServingSize": "-"
+}
+],
+"IngredientsCount": 0
+}
+]
+}

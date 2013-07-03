@@ -1,0 +1,123 @@
+{
+"StatusCode": 0,
+"StatusInfo": "Processed and Logged OK",
+"PageNumber": 0,
+"TotalPageCount": 1,
+"TotalProductCount": 1,
+"PageProductCount": 1,
+"Products":
+[
+	{
+		"BaseProductId": "55506378",
+		"EANBarcode": "5050179691351",
+		"CheaperAlternativeProductId": "",
+		"CookingAndUsage": "MicrowaveStep650 Watt750 Watt850 WattHeat on full power for3 mins3 minsStir and replace lid.Heat for a further1 min1 minsStand for2 mins2 minsInstructionsBreak tab by twisting end of spoon behind tab. Lift off lid stir sauce and replace loosely back on pot.Microwave From FrozenStep650 Watt750 Watt850 WattHeat on full power for5 1/2 mins5 minsStir and replace lid.Heat for a further2 mins2 minsStand for2 mins2 minsCooking PrecautionsCheck food is piping hot throughout before serving.  All appliances vary these are guidelines only.Standard Frozen GuidelinesYesFreezing GuidelinesFreeze on day of purchase. Use within one month.  ",
+		"ExtendedDescription": "A serving contains the following of your guideline daily amount|215 11%of your GDA|2g 2%of your GDA|14g 20%of your GDA|9g 47%of your GDA|1.3g 22%of your GDA|We guarantee the Quality & Freshness of our products - find out more |Cheese sauce made with milk mature Cheddar cheese and cream seasoned with English mustard and pepper.|Contains:               Milk Wheat Gluten &amp; Mustard|Other Allergen Info:               Recipe: No nuts.Ingredients: Cannot guarantee nut free.Factory: Before being prepared for manufacture of this product the equipment was previously used to make products containing nuts.|Warnings:               Use plate to remove product from microwave. Take care when removing and pouring &xD;&xA;as product will be hot.|",
+		"HealthierAlternativeProductId": "",
+		"ImagePath": "http://img.tesco.com/Groceries/pi/351/5050179691351/IDShot_90x90.jpg",
+		"MaximumPurchaseQuantity": 99,
+		"Name": "Tesco Cheese Sauce 350G",
+		"OfferPromotion": "",
+		"OfferValidity": "",
+		"OfferLabelImagePath": "",
+		"Price": 1.4,
+		"PriceDescription": "£0.40 each",
+		"ProductId": "251328286",
+		"ProductType": "QuantityOnlyProduct",
+		"Rating": 0,
+		"StorageInfo": "Keep refrigerated.Use by: see lid.",
+		"UnitPrice": 0.4,
+		"UnitType": "100g",
+		"RDA_Calories_Count": "215",
+		"RDA_Calories_Percent": "11",
+		"RDA_Sugar_Grammes": "2",
+		"RDA_Sugar_Percent": "2",
+		"RDA_Fat_Grammes": "14",
+		"RDA_Fat_Percent": "20",
+		"RDA_Saturates_Grammes": "9",
+		"RDA_Saturates_Percent": "47",
+		"RDA_Salt_Grammes": "1.3",
+		"RDA_Salt_Percent": "22",
+		"NutrientsCount": 11,
+		"Nutrients":[
+			{
+			"NutrientName": "Energy",
+			"SampleDescription": "100g contains",
+			"SampleSize": "505kJ  (125kcal) ",
+			"ServingDescription": "Half of a pot contains - not for bop",
+			"ServingSize": "880kJ  (215kcal) "
+			},
+			{
+			"NutrientName": "Protein",
+			"SampleDescription": "100g contains",
+			"SampleSize": "6.0g",
+			"ServingDescription": "Half of a pot contains - not for bop",
+			"ServingSize": "10.4g"
+			},
+			{
+			"NutrientName": "Carbohydrate",
+			"SampleDescription": "100g contains",
+			"SampleSize": "5.8g",
+			"ServingDescription": "Half of a pot contains - not for bop",
+			"ServingSize": "10.1g"
+			},
+			{
+			"NutrientName": "Sugars",
+			"SampleDescription": "100g contains",
+			"SampleSize": "1.2g",
+			"ServingDescription": "Half of a pot contains - not for bop",
+			"ServingSize": "2.2g"
+			},
+			{
+			"NutrientName": "Fat",
+			"SampleDescription": "100g contains",
+			"SampleSize": "8.2g",
+			"ServingDescription": "Half of a pot contains - not for bop",
+			"ServingSize": "14.3g"
+			},
+			{
+			"NutrientName": "Saturates",
+			"SampleDescription": "100g contains",
+			"SampleSize": "5.3g",
+			"ServingDescription": "Half of a pot contains - not for bop",
+			"ServingSize": "9.3g"
+			},
+			{
+			"NutrientName": "Mono Unsaturates",
+			"SampleDescription": "100g contains",
+			"SampleSize": "2.1g",
+			"ServingDescription": "Half of a pot contains - not for bop",
+			"ServingSize": "3.6g"
+			},
+			{
+			"NutrientName": "Polyunsaturates",
+			"SampleDescription": "100g contains",
+			"SampleSize": "0.4g",
+			"ServingDescription": "Half of a pot contains - not for bop",
+			"ServingSize": "0.7g"
+			},
+			{
+			"NutrientName": "Fibre",
+			"SampleDescription": "100g contains",
+			"SampleSize": "0.5g",
+			"ServingDescription": "Half of a pot contains - not for bop",
+			"ServingSize": "0.9g"
+			},
+			{
+			"NutrientName": "Sodium*",
+			"SampleDescription": "100g contains",
+			"SampleSize": "0.3g",
+			"ServingDescription": "Half of a pot contains - not for bop",
+			"ServingSize": "0.5g"
+			},
+			{
+			"NutrientName": "*Salt Equivalent",
+			"SampleDescription": "100g contains",
+			"SampleSize": "0.7g",
+			"ServingDescription": "Half of a pot contains - not for bop",
+			"ServingSize": "1.3g"
+			}],
+		"IngredientsCount": 0
+	}
+]
+}
